@@ -75,4 +75,4 @@ WHERE Manufacturer LIKE 'Samsung';
 SELECT ProductName,Manufacturer,Price FROM cellular_phones
 WHERE ProductName REGEXP '8';
 ~~~~~
-![Задание 4_3](task4_3.png)
+![Задание 4_3](Task4_3.png)
